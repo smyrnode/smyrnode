@@ -1,4 +1,5 @@
-# Hey 👋  I'm Dmytro Smyrnov #
+<h2 align="center">👋 Hey, I'm Dmytro Smyrnov.</h2>
+
 
 I've been doing commercial frontend development for 4 years now
 
