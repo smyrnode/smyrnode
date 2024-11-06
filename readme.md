@@ -1,14 +1,4 @@
-# Hey 👋   
-I'm Dmytro Smyrnov #
-
-I've been doing commercial frontend development for 4 years now
-
-<!--
- ## You can be friends with me here:
-- GitHub: https://github.com/smyrnode
-- Facebook: https://www.facebook.com/smyrnov
-- Linkedin: https://www.linkedin.com/in/smyrnovd
-  -->
+# Hey 👋  I'm Dmytro Smyrnov #
  <div>
   <a href="https://github.com/smyrnode" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github " />
@@ -21,6 +11,15 @@ I've been doing commercial frontend development for 4 years now
   </a>  
 </div>  
 <br> 
+I've been doing commercial frontend development for 4 years now
+
+<!--
+ ## You can be friends with me here:
+- GitHub: https://github.com/smyrnode
+- Facebook: https://www.facebook.com/smyrnov
+- Linkedin: https://www.linkedin.com/in/smyrnovd
+  -->
+
 
 
  
