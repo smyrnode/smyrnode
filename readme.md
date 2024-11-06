@@ -1,8 +1,12 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<p>
+<a href="https://www.linkedin.com/in/smyrnovd"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://fb.com/smyrnov"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white" height=25></a>
+</p>
 I've been doing commercial frontend development for 4 years now
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Go
+- 👨‍💻 &nbsp;I’m currently working on something cool :wink:
+- 📙 &nbsp;I’m currently learning Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Angular/Vue
 
 <!--
@@ -84,4 +88,5 @@ I've been doing commercial frontend development for 4 years now
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=smyrnode&&style=flat-square" align="center" />
 </div>  
-  
+
+
