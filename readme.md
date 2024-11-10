@@ -87,7 +87,18 @@ I've been doing commercial frontend development for 4 years now
   <summary><b>📚&nbsp;&nbsp;Books and useful materials</b></summary>
   <br/>
   <div align="left"> 
-    <a href="https://github.com/azat-io/you-dont-know-js-ru?tab=readme-ov-file" target="_blank">{Вы пока еще не знаете JS}</a>
+   
+   
+
+   <a href="https://github.com/thedaviddias/Front-End-Checklist" target="_blank">Front-End Checklist</a> <br/>
+   <a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">Javascript algorithms</a> <br/>
+   <a href="https://github.com/lydiahallie/javascript-questions" target="_blank">Javascript questions</a> <br/>
+   <a href="https://github.com/azat-io/you-dont-know-js-ru?tab=readme-ov-file" target="_blank">{Вы пока еще не знаете JS}</a> <br/>
+   
+   <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">Free programming books</a> <br/>
+   <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">Build your own x</a>
+   
+
   </div>
 </details>
 
