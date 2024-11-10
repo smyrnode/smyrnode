@@ -83,6 +83,14 @@ I've been doing commercial frontend development for 4 years now
   </div>
 </details>
 
+<details>
+  <summary><b>📚&nbsp;&nbsp;Books and useful materials</b></summary>
+  <br/>
+  <div align="left"> 
+    <a href="https://github.com/azat-io/you-dont-know-js-ru?tab=readme-ov-file" target="_blank">{Вы пока еще не знаете JS}</a>
+  </div>
+</details>
+
  
 
 <div align="center">
