@@ -8,7 +8,7 @@ I've been doing commercial frontend development for 4 years now
 
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
 - 📙 &nbsp;I’m currently learning Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Angular/Vue
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript
 
 <!--
  ## You can be friends with me here:
