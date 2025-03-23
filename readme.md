@@ -100,9 +100,9 @@ I've been doing commercial frontend development for 4 years now
    <a href="https://leanpub.com/rubyisforfun/" target="_blank">Ruby Is For Fun</a> <br/>
    
    <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">Free programming books</a> <br/>
-   <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">Build your own x</a>
-   <a href="https://free-for.dev" target="_blank">free-for.dev</a>
-   <a href="https://github.com/seleniumbase/SeleniumBase" target="_blank">SeleniumBase</a>
+   <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">Build your own x</a><br/>
+   <a href="https://free-for.dev" target="_blank">free-for.dev</a><br/>
+   <a href="https://github.com/seleniumbase/SeleniumBase" target="_blank">SeleniumBase</a><br/>
 
    
 
