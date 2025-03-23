@@ -22,30 +22,40 @@ I've been doing commercial frontend development for 4 years now
    <a href="https://github.com/azat-io/you-dont-know-js-ru?tab=readme-ov-file" target="_blank">{Вы пока еще не знаете JS}</a> <br/>
    <a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">Javascript algorithms</a> <br/>
    <a href="https://github.com/lydiahallie/javascript-questions" target="_blank">Javascript questions</a> <br/>
+   <a href="https://github.com/FilimonovAlexey/awesome-frontend-dev" target="_blank">Awesome frontend dev</a> <br/>
    <a href="https://drive.google.com/file/d/1QBgMVjqm9oR4tBQ4q9lxWPSkUnQ_uHPJ/view" target="_blank">Road map Front-end</a><br/>
    <a href="https://github.com/YauhenKavalchuk/useful/blob/main/front-end-2025.md" target="_blank">Front-end 2025. Roadmap & Trends</a><br/>
    <a href="https://flexboxlabs.netlify.app" target="_blank">Flexboxlabs</a>
+   <a href="https://anchoreum.com/" target="_blank">Anchoreum css</a>
    
+   <a href="https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file" target="_blank">Project based learning</a> <br/>
    <a href="https://leanpub.com/rubyisforfun/" target="_blank">Ruby Is For Fun</a> <br/>
-   
    <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">Free programming books</a> <br/>
    <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">Build your own x</a><br/>
-   <a href="https://free-for.dev" target="_blank">free-for.dev</a><br/>
+   <a href="https://free-for.dev" target="_blank">Free-for.dev</a><br/>
    <a href="https://github.com/seleniumbase/SeleniumBase" target="_blank">SeleniumBase</a><br/>
    <a href="https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file" target="_blank">System Design 101</a><br/>
    <a href="https://github.com/yangshun/tech-interview-handbook" target="_blank">Tech Interview Handbook</a><br/>
-   <a href="https://github.com/microsoft/generative-ai-with-javascript/tree/main" target="_blank">Generative AI for beginners with JavaScript</a><br/>
    <a href="https://github.com/gorvgoyl/clone-wars" target="_blank">Clone Wars - Open source clones of popular sites</a><br/>
-   <a href="https://github.com/KalyanKS-NLP/llm-engineer-toolkit" target="_blank">LLM Engineer Toolkit</a><br/>
-   <a href="https://coddy.tech/journeys" target="_blank">coddy.tech</a><br/>
+   <a href="https://coddy.tech/journeys" target="_blank">Coddy.tech</a><br/>
    <a href="https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes" target="_blank">Pentration Testing, Beginners To Expert!</a><br/>
    <a href="https://yeahub.ru/questions?page=1&status=all&specialization=11" target="_blank">Вопросики</a><br/>
    <a href="https://github.com/gowthamrajk/SQL-Tutorials" target="_blank">SQL-Tutorials</a><br/>
    <a href="https://www.sqlnoir.com/" target="_blank">SQL Noir</a><br/>
    <a href="https://www.sql-practice.com/" target="_blank">SQL-Practice</a><br/>
    <a href="https://algomaster.io/" target="_blank">Algo master</a><br/>
+   <a href="http://www.excelworld.ru/" target="_blank">Exel world</a><br/>
    <a href="" target="_blank">AI courses</a><br/>
+   
+   <a href="https://github.com/mlabonne/llm-course?tab=readme-ov-file" target="_blank">LLM Course</a><br/>
+   <a href="https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file" target="_blank">Awesome LLM Apps</a><br/>
+    <a href="https://github.com/KalyanKS-NLP/llm-engineer-toolkit" target="_blank">LLM Engineer Toolkit</a><br/>
+   <a href="https://github.com/microsoft/generative-ai-with-javascript/tree/main" target="_blank">Generative AI for beginners with JavaScript</a><br/>
 
+   
+   <a href="https://github.com/StellarSand/privacy-settings?tab=readme-ov-file" target="_blank">Privacy Settings</a><br/>
+   <a href="https://github.com/Raphire/Win11Debloat" target="_blank">Win11Debloat</a><br/>
+   <a href="https://github.com/OpenHealthForAll/open-health?tab=readme-ov-file" target="_blank">OpenHealth</a><br/>
    
   
 
