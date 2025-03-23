@@ -10,15 +10,12 @@ I've been doing commercial frontend development for 4 years now
 - 📙 &nbsp;I’m currently learning Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript
 
-  [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)  
-  [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 <details>
   <summary><b>📚&nbsp;&nbsp;Books and useful materials</b></summary>
   <br/>
   <div align="left"> 
    
-   
-  
+  [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)  
    <a href="https://github.com/thedaviddias/Front-End-Checklist" target="_blank">Front-End Checklist</a> <br/>
    
    <a href="https://github.com/azat-io/you-dont-know-js-ru?tab=readme-ov-file" target="_blank">{Вы пока еще не знаете JS}</a> <br/>
