@@ -26,12 +26,13 @@ I've been doing commercial frontend development for 4 years now
 
   
   [Project based learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)  
-  [Ruby Is For Fun](https://leanpub.com/rubyisforfun/)  
   [Free programming books](https://github.com/EbookFoundation/free-programming-books)  
   [Build your own x](https://github.com/codecrafters-io/build-your-own-x)  
-  [Free-for.dev](https://free-for.dev)  
-  [SeleniumBase](https://github.com/seleniumbase/SeleniumBase)  
   [System Design 101](https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file)  
+  [Real world example apps](https://github.com/gothinkster/realworld)
+  [Free-for.dev](https://free-for.dev)  
+  [Ruby Is For Fun](https://leanpub.com/rubyisforfun/)  
+  [SeleniumBase](https://github.com/seleniumbase/SeleniumBase)  
   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)  
   [Clone Wars - Open source clones of popular sites](https://github.com/gorvgoyl/clone-wars)  
   [Coddy.tech](https://coddy.tech/journeys)  
