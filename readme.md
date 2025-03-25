@@ -24,7 +24,7 @@ I've been doing commercial frontend development for 4 years now
   [Flexboxlabs](https://flexboxlabs.netlify.app)  
   [Anchoreum css](https://anchoreum.com/)
 
-  #### Other
+  #### Hands-On Learning Resources
   [Project based learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)  
   [Free programming books](https://github.com/EbookFoundation/free-programming-books)  
   [Build your own x](https://github.com/codecrafters-io/build-your-own-x)  
@@ -56,7 +56,7 @@ I've been doing commercial frontend development for 4 years now
   [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript/tree/main)  
   [OpenHealth](https://github.com/OpenHealthForAll/open-health?tab=readme-ov-file)
 
-  ##### Tools
+  #### Tools
   [Privacy Settings](https://github.com/StellarSand/privacy-settings?tab=readme-ov-file)  
   [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
   [Win11Debloat](https://github.com/Raphire/Win11Debloat)  
