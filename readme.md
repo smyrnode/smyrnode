@@ -15,17 +15,16 @@ I've been doing commercial frontend development for 4 years now
   <br/>
   <div align="left"> 
    
+  #### Front-end
   [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)  
   [{Вы пока еще не знаете JS}](https://github.com/azat-io/you-dont-know-js-ru?tab=readme-ov-file)  
-  [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)  
-  [Javascript questions](https://github.com/lydiahallie/javascript-questions)  
   [Awesome frontend dev](https://github.com/FilimonovAlexey/awesome-frontend-dev)  
   [Road map Front-end](https://drive.google.com/file/d/1QBgMVjqm9oR4tBQ4q9lxWPSkUnQ_uHPJ/view)  
   [Front-end 2025. Roadmap & Trends](https://github.com/YauhenKavalchuk/useful/blob/main/front-end-2025.md)  
   [Flexboxlabs](https://flexboxlabs.netlify.app)  
   [Anchoreum css](https://anchoreum.com/)
+
   
-  [Algo master](https://algomaster.io/)  
   [Project based learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)  
   [Ruby Is For Fun](https://leanpub.com/rubyisforfun/)  
   [Free programming books](https://github.com/EbookFoundation/free-programming-books)  
@@ -38,7 +37,13 @@ I've been doing commercial frontend development for 4 years now
   [Coddy.tech](https://coddy.tech/journeys)  
   [Pentration Testing, Beginners To Expert!](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes)  
   [Вопросики](https://yeahub.ru/questions?page=1&status=all&specialization=11)  
+
+  #### Algorithms
+  [Algo master](https://algomaster.io/)  
+  [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)  
+  [Javascript questions](https://github.com/lydiahallie/javascript-questions)  
   
+  #### Database
   [SQL-Tutorials](https://github.com/gowthamrajk/SQL-Tutorials)  
   [SQL Noir](https://www.sqlnoir.com/)  
   [SQL-Practice](https://www.sql-practice.com/)  
@@ -49,7 +54,8 @@ I've been doing commercial frontend development for 4 years now
   [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)  
   [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript/tree/main)  
   [OpenHealth](https://github.com/OpenHealthForAll/open-health?tab=readme-ov-file)
-  
+
+  #### Other
   [Privacy Settings](https://github.com/StellarSand/privacy-settings?tab=readme-ov-file)  
   [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
   [Win11Debloat](https://github.com/Raphire/Win11Debloat)  
