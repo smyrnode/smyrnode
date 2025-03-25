@@ -25,6 +25,7 @@ I've been doing commercial frontend development for 4 years now
   [Flexboxlabs](https://flexboxlabs.netlify.app)  
   [Anchoreum css](https://anchoreum.com/)
   
+  [Algo master](https://algomaster.io/)  
   [Project based learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)  
   [Ruby Is For Fun](https://leanpub.com/rubyisforfun/)  
   [Free programming books](https://github.com/EbookFoundation/free-programming-books)  
@@ -37,21 +38,22 @@ I've been doing commercial frontend development for 4 years now
   [Coddy.tech](https://coddy.tech/journeys)  
   [Pentration Testing, Beginners To Expert!](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes)  
   [Вопросики](https://yeahub.ru/questions?page=1&status=all&specialization=11)  
+  
   [SQL-Tutorials](https://github.com/gowthamrajk/SQL-Tutorials)  
   [SQL Noir](https://www.sqlnoir.com/)  
   [SQL-Practice](https://www.sql-practice.com/)  
-  [Algo master](https://algomaster.io/)  
-  [Exel world](http://www.excelworld.ru/)  
-  [AI courses]()  
   
+  #### AI
   [LLM Course](https://github.com/mlabonne/llm-course?tab=readme-ov-file)  
   [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file)  
   [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)  
   [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript/tree/main)  
+  [OpenHealth](https://github.com/OpenHealthForAll/open-health?tab=readme-ov-file)
   
   [Privacy Settings](https://github.com/StellarSand/privacy-settings?tab=readme-ov-file)  
+  [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
   [Win11Debloat](https://github.com/Raphire/Win11Debloat)  
-  [OpenHealth](https://github.com/OpenHealthForAll/open-health?tab=readme-ov-file)
+  [Exel world](http://www.excelworld.ru/)  
 
 
   </div>
