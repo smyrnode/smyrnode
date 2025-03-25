@@ -43,6 +43,7 @@ I've been doing commercial frontend development for 4 years now
   [Algo master](https://algomaster.io/)  
   [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)  
   [Javascript questions](https://github.com/lydiahallie/javascript-questions)  
+  [Visualgo](https://visualgo.net/en)
   
   #### Database
   [SQL-Tutorials](https://github.com/gowthamrajk/SQL-Tutorials)  
@@ -61,7 +62,8 @@ I've been doing commercial frontend development for 4 years now
   [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
   [Win11Debloat](https://github.com/Raphire/Win11Debloat)  
   [Exel world](http://www.excelworld.ru/)  
-
+  [Open alternative](https://openalternative.co/)
+  
 
   </div>
 </details>
