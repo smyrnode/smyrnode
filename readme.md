@@ -38,6 +38,7 @@ I've been doing commercial frontend development for 4 years now
   [Coddy.tech](https://coddy.tech/journeys)  
   [Pentration Testing, Beginners To Expert!](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes)  
   [Вопросики](https://yeahub.ru/questions?page=1&status=all&specialization=11)  
+  [Python interview questions](https://github.com/yakimka/python_interview_questions/blob/master/questions.md)
 
   #### Algorithms
   [Algo master](https://algomaster.io/)  
