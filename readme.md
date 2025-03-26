@@ -23,6 +23,7 @@ I've been doing commercial frontend development for 4 years now
   [Front-end 2025. Roadmap & Trends](https://github.com/YauhenKavalchuk/useful/blob/main/front-end-2025.md)  
   [Flexboxlabs](https://flexboxlabs.netlify.app)  
   [Anchoreum css](https://anchoreum.com/)
+  [OptimizedHTML-5](https://github.com/agragregra/OptimizedHTML-5)
 
   #### Hands-On Learning Resources
   [Project based learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)  
@@ -56,7 +57,9 @@ I've been doing commercial frontend development for 4 years now
   [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file)  
   [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)  
   [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript/tree/main)  
-  [OpenHealth](https://github.com/OpenHealthForAll/open-health?tab=readme-ov-file)
+  [OpenHealth](https://github.com/OpenHealthForAll/open-health?tab=readme-ov-file)  
+  [Fooocus](https://github.com/lllyasviel/Fooocus)
+  
 
   #### Tools
   [Privacy Settings](https://github.com/StellarSand/privacy-settings?tab=readme-ov-file)  
