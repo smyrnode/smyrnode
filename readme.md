@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/smyrnovd"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://fb.com/smyrnov"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 </p>
-I've been doing commercial frontend development for 4 years now
+
 <br/>
 
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
