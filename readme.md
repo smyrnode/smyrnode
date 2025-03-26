@@ -4,7 +4,6 @@
 <a href="https://fb.com/smyrnov"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 </p>
 
-<br/>
 
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
 - 📙 &nbsp;I’m currently learning Go
