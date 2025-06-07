@@ -23,6 +23,7 @@
   [Flexboxlabs](https://flexboxlabs.netlify.app)  
   [Anchoreum css](https://anchoreum.com/)
   [OptimizedHTML-5](https://github.com/agragregra/OptimizedHTML-5)
+  [JavaScript Visualizer 9000](https://www.jsv9000.app/)
 
   #### Hands-On Learning Resources
   [Project based learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)  
