@@ -39,7 +39,8 @@
   [Coddy.tech](https://coddy.tech/journeys)  
   [Pentration Testing, Beginners To Expert!](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes)  
   [Вопросики](https://yeahub.ru/questions?page=1&status=all&specialization=11)  
-  [Python interview questions](https://github.com/yakimka/python_interview_questions/blob/master/questions.md)
+  [Python interview questions](https://github.com/yakimka/python_interview_questions/blob/master/questions.md)  
+  [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp?tab=readme-ov-file)  
 
   #### Algorithms
   [Algo master](https://algomaster.io/)  
@@ -51,6 +52,7 @@
   [SQL-Tutorials](https://github.com/gowthamrajk/SQL-Tutorials)  
   [SQL Noir](https://www.sqlnoir.com/)  
   [SQL-Practice](https://www.sql-practice.com/)  
+  [SQL-tutor](https://sqltutor.ru/)  
   
   #### AI
   [LLM Course](https://github.com/mlabonne/llm-course?tab=readme-ov-file)  
