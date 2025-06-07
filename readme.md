@@ -6,8 +6,8 @@
 
 
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
-- 📙 &nbsp;I’m currently learning Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript
+- 🧠 &nbsp;Tech I work with: JavaScript / TypeScript, PHP, Python
+- 📘 &nbsp;Learning Go and leveling up my backend skills
 
 <details>
   <summary><b>📚&nbsp;&nbsp;Books and useful materials</b></summary>
