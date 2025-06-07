@@ -21,9 +21,8 @@
   [Road map Front-end](https://drive.google.com/file/d/1QBgMVjqm9oR4tBQ4q9lxWPSkUnQ_uHPJ/view)  
   [Front-end 2025. Roadmap & Trends](https://github.com/YauhenKavalchuk/useful/blob/main/front-end-2025.md)  
   [Flexboxlabs](https://flexboxlabs.netlify.app)  
-  [Anchoreum css](https://anchoreum.com/)
-  [OptimizedHTML-5](https://github.com/agragregra/OptimizedHTML-5)
-  
+  [Anchoreum css](https://anchoreum.com/)  
+  [OptimizedHTML-5](https://github.com/agragregra/OptimizedHTML-5)  
   [JavaScript Visualizer 9000](https://www.jsv9000.app/)
 
   #### Hands-On Learning Resources
