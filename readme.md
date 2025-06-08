@@ -10,7 +10,7 @@
 - 📘 &nbsp;Learning Go and leveling up my backend skills
 
 <details>
-  <summary><b>📚&nbsp;&nbsp;Books and useful materials</b></summary>
+  <summary><b>📚&nbsp;&nbsp;Useful links</b></summary>
   <br/>
   <div align="left"> 
    
