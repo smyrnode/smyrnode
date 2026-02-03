@@ -6,8 +6,8 @@
 
 
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
-- 🧠 &nbsp; My tech stack: PHP, Python (AI/ML), JavaScript / TypeScript and GO
-- 📘 &nbsp;Learning Go and leveling up my backend skills
+- 🧠 &nbsp; My tech stack: PHP, Python, JavaScript / TypeScript
+- 📘 &nbsp;Learning AI and leveling up my development skills
 
 <details>
   <summary><b>📚&nbsp;&nbsp;Useful links</b></summary>
