@@ -6,10 +6,10 @@
 
 
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
-- 🧠 &nbsp; My tech stack: PHP, Python, JavaScript / TypeScript and GO
+- 🧠 &nbsp; My tech stack: PHP, Python, JavaScript / TypeScript and .Net
 - 📘 &nbsp;Learning AI and leveling up my development skills now
 
-<details>
+<!-- <details>
   <summary><b>📚&nbsp;&nbsp;Useful links</b></summary>
   <br/>
   <div align="left"> 
@@ -72,7 +72,7 @@
   
 
   </div>
-</details>
+</details> -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=smyrnode&&style=flat-square" align="center" />
