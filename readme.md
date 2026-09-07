@@ -4,7 +4,6 @@
 <!-- <a href="https://fb.com/smyrnov"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" height=25></a> -->
 </p>
 
-I'm a software developer interested in building things, learning new technologies, and improving my skills.
 
 
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
