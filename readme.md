@@ -7,7 +7,8 @@
 
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
 - 🧠 &nbsp; My tech stack: PHP, Python, JavaScript/TypeScript, C# (.NET), Go
-- 📘 &nbsp;Learning AI and leveling up my development skills now
+- 📚 &nbsp;Currently learning AI and exploring new areas of development
+- 🚀 &nbsp;Always working on improving my skills and building new projects
 
 <!-- <details>
   <summary><b>📚&nbsp;&nbsp;Useful links</b></summary>
