@@ -4,6 +4,7 @@
   <a href="https://fb.com/smyrnov"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 </p>
 -->
+### Hi there 👋
 
 I'm **Dmitry** — a software developer based in Thessaloniki, Greece.
 I build web apps and automations end to end: from database and API to deployment.
