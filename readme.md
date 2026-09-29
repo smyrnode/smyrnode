@@ -4,34 +4,39 @@
   <a href="https://fb.com/smyrnov"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 </p>
 -->
-### Hi there 👋
 
-I'm **Dmitry** — a software developer based in Thessaloniki, Greece.
-I build web apps and automations end to end: from database and API to deployment.
+### A bit about me
 
-- 🔭 Working on: client projects (Laravel CRM, .NET + React internal tools) and open source
-- 🌱 Currently deepening: Docker, Linux, AWS, CI/CD — moving into backend / DevOps
-- 🛠 Recent: merged HLS playback fix in `nodecast-tv-plus` · `macos-keyboard-toggle` for Hyprland
-- 💬 Ask me about: REST APIs, automation bots, internal business tools
-- 📫 Reach me: **smyrnovd@gmail.com** · [smyrnov.eu](https://smyrnov.eu) · [LinkedIn](https://www.linkedin.com/in/smyrnovd/)
+     Hey! Welcome to my GitHub page. I'm a software developer based in Thessaloniki, Greece.
+     I build web apps and automations end to end — from database design to deployment and support.
 
-**Stack**
+     I've been freelancing since 2023: CRMs, booking platforms, internal business tools and the
+     occasional WordPress site. I love turning manual work into tools — if something has been done
+     twice by hand, I'm already thinking about how to script it.
 
-| Layer | Technologies |
-|---|---|
-| Languages | TypeScript / JavaScript, C# / .NET, PHP, Python, SQL |
-| Frontend | React, Next.js, Vue.js |
-| Backend | Node.js (NestJS, Express), ASP.NET Core, Laravel |
-| Infra | Docker, Linux, AWS, Git, GitHub Actions |
+     ### What I'm hacking on
 
-**Featured**
+     - Learning DevOps properly — Docker, Linux, AWS, CI/CD — code meets infrastructure.
+     - [macos-keyboard-toggle](https://github.com/smyrnode/macos-keyboard-toggle) — a macOS-style
+       input language switcher for Omarchy / Hyprland that I built for myself and actually use daily.
+     - Client projects on Laravel and .NET + React, plus Python bots for my own automations.
+     - WordPress sites. Yes, really. Somebody has to keep the plugins updated and quietly promise
+       the theme is "just temporary". It pays the bills — and debugging wp-config.php at 2am
+       builds character.
 
-| Project | What it is |
-|---|---|
-| [macos-keyboard-toggle](https://github.com/smyrnode/macos-keyboard-toggle) | Input-language switcher for Omarchy / Hyprland (QML) |
-| [nodecast-tv-plus](https://github.com/smyrnode/nodecast-tv-plus) | Fork + upstream HLS playback fix |
-| [inspector](https://github.com/smyrnode/inspector) | Monitoring & alerting bot (Python) |
+     ### Nerd Corner
 
+     My desktop is Omarchy (Hyprland) — which is how I ended up writing my own input-language
+     indicator in QML instead of just finding one that worked. Editor of choice: IntelliJ IDEA.
+
+     Once upon a time I wrote a hashrate monitoring bot ([inspector](https://github.com/smyrnode/inspector))
+     that pinged me on Telegram whenever a mining pool hiccupped. The mining boom ended — the bot stayed.
+
+     ### The vibe
+
+     ship small things, break them, fix them, drink coffee, repeat ☕
+
+     Bio: Software developer · builder of small tools · open source enthusiast · Thessaloniki
 
 <!--
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
