@@ -5,14 +5,13 @@
 </p>
 -->
 
-### A bit about me
+### Hey, I'm Dmitry
 
-Hey! Welcome to my GitHub page.
 I turn repetitive work into software. Developer from Thessaloniki, Greece, freelancing since 2023. I build CRMs, booking platforms, internal tools and the odd WordPress site, and I take them all the way from database schema to deployment and support.
 
- My golden rule: if I've done something by hand twice, the third time is a script.
+My golden rule: if I've done something by hand twice, the third time is a script.
 
- ### What I'm hacking on
+### What I'm hacking on
 
  - Learning DevOps properly — Docker, Linux, AWS, CI/CD — code meets infrastructure.
  - [macos-keyboard-toggle](https://github.com/smyrnode/macos-keyboard-toggle) — a macOS-style
@@ -22,20 +21,20 @@ I turn repetitive work into software. Developer from Thessaloniki, Greece, freel
    the theme is "just temporary". It pays the bills — and debugging wp-config.php at 2am
    builds character.
 
- ### Nerd Corner
+### Nerd Corner
 
- My desktop is Omarchy (Hyprland). I couldn't find a language indicator I liked, so I wrote my own in QML. Editor of choice: VSCode.
+My desktop is Omarchy (Hyprland). I couldn't find a language indicator I liked, so I wrote my own in QML. Editor of choice: VSCode.
 
- Once upon a time I wrote a hashrate monitoring bot ([inspector](https://github.com/smyrnode/inspector))
+Once upon a time I wrote a hashrate monitoring bot ([inspector](https://github.com/smyrnode/inspector))
  that pinged me on Telegram whenever a mining pool hiccupped. The mining boom ended — the bot stayed.
 
- ### Let's talk
+### Let's talk
  
- Got a process that eats your team's time? Tell me about it: [email / LinkedIn / Telegram]
+Got a process that eats your team's time? Tell me about it: [email / LinkedIn / Telegram]
 
- ### The vibe
+### The vibe
  
- ship small things, break them, fix them, drink coffee, repeat ☕
+ship small things, break them, fix them, drink coffee, repeat ☕
 
 <!--
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
