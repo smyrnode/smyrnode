@@ -7,12 +7,10 @@
 
 ### A bit about me
 
-Hey! Welcome to my GitHub page. I'm a software developer based in Thessaloniki, Greece.
-I build web apps and automations end to end — from database design to deployment and support.
+Hey! Welcome to my GitHub page.
+I turn repetitive work into software. Developer from Thessaloniki, Greece, freelancing since 2023. I build CRMs, booking platforms, internal tools and the odd WordPress site, and I take them all the way from database schema to deployment and support.
 
- I've been freelancing since 2023: CRMs, booking platforms, internal business tools and the
- occasional WordPress site. I love turning manual work into tools — if something has been done
- twice by hand, I'm already thinking about how to script it.
+ My golden rule: if I've done something by hand twice, the third time is a script.
 
  ### What I'm hacking on
 
@@ -26,14 +24,17 @@ I build web apps and automations end to end — from database design to deployme
 
  ### Nerd Corner
 
- My desktop is Omarchy (Hyprland) — which is how I ended up writing my own input-language
- indicator in QML instead of just finding one that worked. Editor of choice: IntelliJ IDEA.
+ My desktop is Omarchy (Hyprland). I couldn't find a language indicator I liked, so I wrote my own in QML. Editor of choice: VSCode.
 
  Once upon a time I wrote a hashrate monitoring bot ([inspector](https://github.com/smyrnode/inspector))
  that pinged me on Telegram whenever a mining pool hiccupped. The mining boom ended — the bot stayed.
 
- ### The vibe
+ ### Let's talk
+ 
+ Got a process that eats your team's time? Tell me about it: [email / LinkedIn / Telegram]
 
+ ### The vibe
+ 
  ship small things, break them, fix them, drink coffee, repeat ☕
 
 <!--
