@@ -29,7 +29,7 @@ My desktop is Omarchy (Hyprland). I couldn't find a language indicator I liked, 
 
 ### Let's talk
  
-Got a process that eats your team's time? Tell me about it: [Email](mailto:smyrnovd@gmail.com), [Telegram](https://t.me/smyrnode)
+Got a process that eats your team's time? Tell me about it: [Email](mailto:smyrnovd@gmail.com) || [Telegram](https://t.me/smyrnode)
 
 ### The vibe
  
