@@ -36,8 +36,6 @@ I build web apps and automations end to end — from database design to deployme
 
  ship small things, break them, fix them, drink coffee, repeat ☕
 
- Bio: Software developer · builder of small tools · open source enthusiast · Thessaloniki
-
 <!--
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
 - 🧠 &nbsp; My tech stack: PHP, Python, JavaScript/TypeScript, C# (.NET), Go
