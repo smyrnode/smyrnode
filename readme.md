@@ -25,12 +25,11 @@ My golden rule: if I've done something by hand twice, the third time is a script
 
 My desktop is Omarchy (Hyprland). I couldn't find a language indicator I liked, so I wrote my own in QML. Editor of choice: VSCode.
 
-Once upon a time I wrote a hashrate monitoring bot ([inspector](https://github.com/smyrnode/inspector))
- that pinged me on Telegram whenever a mining pool hiccupped. The mining boom ended — the bot stayed.
+
 
 ### Let's talk
  
-Got a process that eats your team's time? Tell me about it: ([Email](mailto:smyrnovd@gmail.com)) ([Telegram](https://t.me/smyrnode))
+Got a process that eats your team's time? Tell me about it: [Email](mailto:smyrnovd@gmail.com), [Telegram](https://t.me/smyrnode)
 
 ### The vibe
  
