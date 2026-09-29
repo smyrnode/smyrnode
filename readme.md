@@ -30,11 +30,11 @@ Once upon a time I wrote a hashrate monitoring bot ([inspector](https://github.c
 
 ### Let's talk
  
-Got a process that eats your team's time? Tell me about it: [email / LinkedIn / Telegram]
+Got a process that eats your team's time? Tell me about it: ([Email](mailto:smyrnovd@gmail.com)) ([Telegram](https://t.me/smyrnode))
 
 ### The vibe
  
-ship small things, break them, fix them, drink coffee, repeat ☕
+Ship small things, break them, fix them, drink coffee, repeat ☕
 
 <!--
 - 👨‍💻 &nbsp;I’m currently working on something cool :wink:
